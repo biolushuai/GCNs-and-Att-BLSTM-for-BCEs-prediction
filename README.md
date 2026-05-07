@@ -9,7 +9,7 @@ B-cell epitopes (BCEs) are a set of specific sites on the surface of an antigen 
 * Scikit-learn = 1.0.2
 
 ## 2. Citation
-Shuai Lu, Yuguang Li, Qiang Ma, Xiaofei Nan*, Shoutao Zhang*. A structure-based B-cell epitope prediction model through combing local and global features[J]. Frontiers in Immunology, 2022, 13: 890943. DOI: 10.3389/fimmu.2022.890943.
+Shuai Lu, Yuguang Li, Qiang Ma, Xiaofei Nan* and Shoutao Zhang*. A Structure-based B-cell Epitope Prediction Model Through Combing Local and Global Features[J]. Frontiers in Immunology, 2022, 13: 890943. DOI: 10.3389/fimmu.2022.890943.
 
 
 ## 3. Contact
